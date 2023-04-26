@@ -1,8 +1,11 @@
 # TRANSCRIBE
 Automatización para transcribir mensajes de voz en WhatsApp
+
 Esta automatizacion de MAKE pasara los mensages de voz de whatsapp
+
 a texto y los almacenara en una tabla en Airtable
 
+https://nocodetips.blogspot.com/2023/04/transcripcion-voz-whatsapp.html
 
 descarga el archivo .JSON
 
